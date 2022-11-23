@@ -1,0 +1,1 @@
+# AgileX Scout Mini Documentation
