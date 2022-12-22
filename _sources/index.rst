@@ -25,6 +25,7 @@ What's Here
     MINI.
 *   :doc:`specifications` - Contains specification information for the SCOUT MINI and related
     hardware.
+*   :doc:`downloads` - Downloadable content related to the SCOUT MINI.
 
 Table of Contents:
 ==================
@@ -36,3 +37,4 @@ Table of Contents:
     getting_started.rst
     operation.rst
     specifications.rst
+    downloads.rst
