@@ -7,7 +7,7 @@
 
 import time
 
-project = 'AgileX Scout MINI Documentation'
+project = 'AgileX SCOUT MINI Documentation'
 author = 'Trossen Robotics'
 copyright = "{}, {}".format(time.strftime("%Y"), author)
 
@@ -68,7 +68,7 @@ html_theme = 'sphinx_rtd_theme'
 html_scaled_image_link = False
 
 # Set the html page title
-html_title = "AgileX Scout MINI Documentation"
+html_title = "AgileX SCOUT MINI Documentation"
 
 # Activate the bootstrap theme.
 # html_theme_path = ['_themes']
